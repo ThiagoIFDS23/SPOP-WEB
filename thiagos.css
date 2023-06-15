@@ -1,0 +1,80 @@
+body {
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/012/273/307/original/8k-boat-goes-on-the-sea-with-hyperlapse-video.jpg);
+    background-size:100%;
+}
+
+#cabecalho {
+    width: 950px;
+    margin: 100px auto;
+    background: lightblue;
+}
+
+#cabecalho_nome, #cabecalho_menu {
+    padding: 15px;
+    text-align:center;
+}
+
+#principal {
+    margin:90px;
+    width: 950px;
+    margin: 10px auto;
+    background: white;
+}
+
+#rodape {
+    width: 950px;
+    margin: 10px auto;
+    background: yellowgreen;
+    clear: both;
+    width: 950px;
+    margin: 10px auto;
+}
+
+#postagem {
+    width: 660px;
+    margin: 10px;
+    float: left;
+    background-color: white;
+}
+
+#lateral {
+    width: 240px;
+    margin: 10px;
+    background-color: white;
+    float: right;
+}
+
+.laranja {
+    background-color: orangered;
+}
+
+#cabecalho a:link{
+    color:white;
+    padding:8px 12px;
+}
+
+#cabecalho a:visited{
+    color:white;
+    padding:8px 12px;
+}
+
+#cabecalho a:hover{
+    color:orangered;0
+    background:white;
+}
+
+#data{
+    font-size:0,7em;
+    display:block;
+    padding-top:0px;
+    padding-bottom:15px;
+    margin:10px;
+}
+
+.blacker {
+    background-color: white;
+    color:orangered;
+}
+.conteudo_postagem{
+    margin: 20px;
+}
