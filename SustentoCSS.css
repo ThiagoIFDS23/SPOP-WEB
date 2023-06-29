@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+
+#sin{
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+    margin:10px auto;
+    background-color:green;
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#menu{
+    padding:50px;
+    font-size: 25px;
+    margin-top: 30px;
+    color:rgba(4, 255, 159, 0.877);
+}
+
+ #int{
+    font-size:25px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+ }
